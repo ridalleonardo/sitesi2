@@ -1,7 +1,24 @@
 body{
   background-color: #333;
+
 }
 
 h1{
   color: #FFF;
+}
+
+.txt-azul{
+  color: blue;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ronaldao{
+margin: 15px;
+ float: right;
+
+}
+
+.clear{
+  clear: both;
 }
